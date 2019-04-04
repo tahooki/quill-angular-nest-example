@@ -1,1 +1,12 @@
-<router-outlet></router-outlet>
+<h1>Quill Angular Nest Example</h1>
+
+<quill-editor #quill
+              [(ngModel)]="content"
+              [modules]="quillModules"
+              [style]="{height: '500px'}"
+              (onEditorCreated)="onCreatedQuill($event)">
+</quill-editor>
+
+<br>
+
+<button (click)="onClickSave(quill)">저장하기</button>
