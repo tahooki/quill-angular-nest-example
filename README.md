@@ -14,7 +14,7 @@
 
 <br/>
 
----
+
 ## WSIWIYG Editor Library QuillJS File Upload example using 'Angular' and 'NestJS'
 <br/>
 
@@ -32,9 +32,11 @@ Nest use modules
 
 Usage
 1. Clone git
-2. Move Nest Folder And npm install
-3. npm run start
-3. Move Angular Folder And npm install
-4. ng serve (need Angular-cli https://cli.angular.io/)
-5. Image File Upload Test.
-6. End.
+2. Move Nest Folder
+3. > npm install
+4. > npm run start
+5. Move Angular Folder 
+6. > npm install
+7. > ng serve (need Angular-cli https://cli.angular.io/)
+8. Image File Upload Test.
+9. End.
