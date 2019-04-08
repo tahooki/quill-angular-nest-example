@@ -1,4 +1,4 @@
-# QUILL + Angular + Nest Example
+# QUILL + Angular + Nest Image Upload Example
 
 <p align="center">
   <a href="https://quilljs.com/" target="blank"><img src="https://www.drupal.org/files/project-images/quickstart---quill.png" width="160" alt="Quill Logo" /></a>
