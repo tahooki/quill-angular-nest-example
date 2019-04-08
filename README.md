@@ -33,10 +33,10 @@ Nest use modules
 Usage
 1. Clone git
 2. Move Nest Folder
-3. > npm install
-4. > npm run start
+3. `> npm install`
+4. `> npm run start`
 5. Move Angular Folder 
-6. > npm install
-7. > ng serve (need Angular-cli https://cli.angular.io/)
+6. `> npm install`
+7. `> ng serve` (need Angular-cli https://cli.angular.io/)
 8. Image File Upload Test.
 9. End.
