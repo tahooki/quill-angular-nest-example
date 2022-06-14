@@ -15,7 +15,7 @@
 <br/>
 
 
-## WSIWIYG Editor Library QuillJS File Upload example using 'Angular' and 'NestJS'
+## WYSIWYG Editor Library QuillJS File Upload example using 'Angular' and 'NestJS'
 <br/>
 
 Angular use modules
